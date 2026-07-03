@@ -1,7 +1,7 @@
-# riman-taiwan-referral
+# riman-taiwan-guide
 
-Repository Name:
-riman-taiwan-referral
+RIMAN Taiwan membership guide landing page.
 
-Description:
-RIMAN Taiwan registration guide, referral number 1046157906, membership information and beauty partner guide.
+URL: https://riman-taiwan-guide.pages.dev/
+
+Referral Number: 1046157906
